@@ -1,4 +1,4 @@
-# Diego Andrade
+# ID1D
 **Senior Security Engineer** · Security Automation · Cloud Security · AI-Powered Detection
 
 7+ years building and automating security operations across fintech, banking, and digital payments. I specialize in designing autonomous detection and response systems — turning manual SOC workflows into intelligent, self-operating pipelines.
